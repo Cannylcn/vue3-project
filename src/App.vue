@@ -30,7 +30,7 @@ onMounted(() => {
       </nav>
       <nav>
         <button class="button" :class="{'active':locale=='en'}" @click="changeLanguage('en')">English</button>
-        <button class="button" :class="{'active':locale=='zh'}" @click="changeLanguage('zh')">中文</button>
+        <button class="button" :class="{'active':locale=='zh-CN'}" @click="changeLanguage('zh-CN')">中文</button>
       </nav>
     </div>
   </header>
