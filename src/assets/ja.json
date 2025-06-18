@@ -1,7 +1,7 @@
 {
     "message": {
-        "hello": "メッセージ.hello",
-        "tips": "メッセージ.tips",
-        "next": "お問い合わせ"
+        "hello": "",
+        "tips": "",
+        "next": ""
     }
 }
