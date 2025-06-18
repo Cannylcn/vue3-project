@@ -28,6 +28,7 @@ onMounted(() => {
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
+      <p>{{$t('message.testText')}}</p>
       <nav>
         <button class="button" :class="{'active':locale=='en'}" @click="changeLanguage('en')">English</button>
         <button class="button" :class="{'active':locale=='zh-CN'}" @click="changeLanguage('zh-CN')">中文</button>
