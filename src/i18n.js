@@ -11,8 +11,8 @@ const loadLocaleMessages = () => {
 // 创建 i18n 实例
 const i18n = createI18n({
     legacy: false, // 使用 Composition API 模式
-    locale: 'en', // 默认语言
-    fallbackLocale: 'en', // 回退语言
+    locale: 'zh-CN', // 默认语言
+    fallbackLocale: 'zh-CN', // 回退语言
     messages: {
         en: await (await loadLocaleMessages()['en']()).default,
         'zh-CN': await (await loadLocaleMessages()['zh-CN']()).default
