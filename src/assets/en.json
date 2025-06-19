@@ -3,8 +3,8 @@
         "hello": "You did it!",
         "tips": "You’ve successfully created a project with",
         "next": "What's next?",
-        "mining": "",
-        "steel": "",
-        "automobiles": ""
+        "mining": "mining",
+        "steel": "steel",
+        "automobiles": "automobiles"
     }
 }
