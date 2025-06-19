@@ -1,8 +1,8 @@
 {
     "message": {
-        "hello": "",
-        "tips": "",
-        "next": "",
+        "hello": "You did it!",
+        "tips": "You’ve successfully created a project with",
+        "next": "What's next?",
         "testText": "this is test"
     }
 }
