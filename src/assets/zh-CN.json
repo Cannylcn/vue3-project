@@ -9,6 +9,7 @@
         "submit": "提交",
         "cancel": "取消"
     },
+    "language": "简体中文",
     "plural_example": {
         "one": "你有1条消息",
         "other": "你有{count}条消息"
