@@ -1,10 +1,18 @@
 {
-    "message": {
-        "hello": "你做到了!",
-        "tips": "你成功的创建了工程",
-        "next": "接下来做什么呢？",
-        "mining": "采掘",
-        "steel": "钢铁",
-        "automobiles": "汽车"
-    }
+    "hello": "你好",
+    "welcome": "欢迎，{name}！",
+    "about": {
+        "title": "关于我们",
+        "description": "我们是一家创新的科技公司。"
+    },
+    "button": {
+        "submit": "提交",
+        "cancel": "取消"
+    },
+    "language": "简体中文",
+    "plural_example": {
+        "one": "你有1条消息",
+        "other": "你有{count}条消息"
+    },
+    "copyright": "© {year} 公司名称。保留所有权利。"
 }
