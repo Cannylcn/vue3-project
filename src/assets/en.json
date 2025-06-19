@@ -6,5 +6,22 @@
         "mining": "mining",
         "steel": "steel",
         "automobiles": "automobiles"
-    }
+    },
+    "hello": "Your Excellencies",
+    "welcome": "welcome, {name}",
+    "about": {
+        "title": "We",
+        "description": "We are an innovative scientific and technological company。"
+    },
+    "button": {
+        "submit": "Submission",
+        "cancel": "Abolition",
+        "pay": "Payment"
+    },
+    "language": "English",
+    "plural_example": {
+        "one": "You have one news",
+        "other": "you have information about your article (precount}"
+    },
+    "copyright": "“3. retention of title。"
 }
