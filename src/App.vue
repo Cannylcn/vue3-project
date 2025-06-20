@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { onMounted } from 'vue'
+import { ref, onMounted } from 'vue'
 import { RouterLink, RouterView } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 import HelloWorld from './components/HelloWorld.vue'
@@ -10,7 +10,7 @@ const changeLanguage = (lang) => {
   locale.value = lang
 }
 
-console.log(t)
+const userName = ref('comeIn')
 
 onMounted(() => {
 
@@ -22,13 +22,12 @@ onMounted(() => {
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld :msg="$t('message.hello')" />
+      <HelloWorld :msg="$t('hello')" :userName="userName"/>
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
-      <p>{{$t('message.testText')}}</p>
       <nav>
         <button class="button" :class="{'active':locale=='en'}" @click="changeLanguage('en')">English</button>
         <button class="button" :class="{'active':locale=='zh-CN'}" @click="changeLanguage('zh-CN')">中文</button>
