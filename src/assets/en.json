@@ -16,7 +16,8 @@
     "button": {
         "submit": "Submission",
         "cancel": "Abolition",
-        "pay": "Payment"
+        "pay": "Payment",
+        "skip": "Earning"
     },
     "language": "English",
     "plural_example": {
