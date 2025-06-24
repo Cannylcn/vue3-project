@@ -1,5 +1,5 @@
 {
-    "hello": "Your Excellencies",
+    "hello": "hello",
     "welcome": "welcome, {name}",
     "about": {
         "title": "We",
