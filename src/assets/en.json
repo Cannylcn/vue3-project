@@ -9,7 +9,8 @@
         "submit": "Submission",
         "cancel": "Abolition",
         "pay": "Payment",
-        "skip": "Earning"
+        "skip": "Earning",
+        "tryAgain": "Another trial"
     },
     "language": "English",
     "plural_example": {
