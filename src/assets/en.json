@@ -1,12 +1,4 @@
 {
-    "message": {
-        "hello": "You did it!",
-        "tips": "You’ve successfully created a project with",
-        "next": "What's next?",
-        "mining": "mining",
-        "steel": "steel",
-        "automobiles": "automobiles"
-    },
     "hello": "Your Excellencies",
     "welcome": "welcome, {name}",
     "about": {
