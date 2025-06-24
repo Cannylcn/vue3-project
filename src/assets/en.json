@@ -10,7 +10,8 @@
         "cancel": "Abolition",
         "pay": "Payment",
         "skip": "Earning",
-        "tryAgain": "Another trial"
+        "tryAgain": "Another trial",
+        "confirm": "Confirmation"
     },
     "language": "English",
     "plural_example": {
