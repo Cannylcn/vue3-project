@@ -14,6 +14,7 @@ const userName = ref('comeIn')
 
 onMounted(() => {
 console.log('测试rebase')
+console.log('成功rebase')
 })
 </script>
 
