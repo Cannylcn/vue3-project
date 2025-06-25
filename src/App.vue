@@ -13,7 +13,7 @@ const changeLanguage = (lang) => {
 const userName = ref('comeIn')
 
 onMounted(() => {
-
+console.log('测试rebase')
 })
 </script>
 
