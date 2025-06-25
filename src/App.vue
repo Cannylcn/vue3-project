@@ -13,7 +13,7 @@ const changeLanguage = (lang) => {
 console.log(t)
 
 onMounted(() => {
-
+console.log('测试rebase')
 })
 </script>
 
