@@ -1,0 +1,28 @@
+{
+    "navMenu": {
+        "memberFree": "外资研报会员限免开放",
+        "iKnow": "我知道了",
+        "taskManager": "任务管理器",
+        "uploadList": "上传列表",
+        "myNote": "我的笔记",
+        "myNoteTip": "用笔记工具生成的内容可在云文档查看",
+        "deleteSuccess": "删除成功",
+        "downloadSuccess": "下载成功",
+        "activity": "活动",
+        "schedule": "日程",
+        "cloudDocument": "云文档",
+        "meeting": "会议",
+        "optional": "自选",
+        "aiJinbao": "AI进宝",
+        "find": "发现",
+        "roadshow": "路演",
+        "summary": "纪要",
+        "research": "调研",
+        "report": "研报",
+        "info": "资讯",
+        "qa": "问答",
+        "addressBook": "通讯录",
+        "manage": "管理",
+        "more": "更多"
+    }
+}

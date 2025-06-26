@@ -1,0 +1,26 @@
+{
+    "header": {
+        "aiSearchUpgrade": "进门智能搜索优化升级，欢迎体验",
+        "tryAsk": "试着问问",
+        "iKnow": "我知道了",
+        "newFeatureGuide": "新功能引导",
+        "globalSearchTip": "全局搜索、语音转写、我的收藏、消息通知、个人中心等功能置于顶部导航，随时打开",
+        "calendar": "日历",
+        "cover": "封面",
+        "list": "列表",
+        "searchHistory": "搜索历史",
+        "noHistory": "暂无历史记录",
+        "hotSearch": "热门搜索",
+        "search": "搜索",
+        "aiNote": "AI会记",
+        "voiceToText": "语音转文字",
+        "transcribe": "转写",
+        "translate": "翻译",
+        "myFavorites": "我的收藏",
+        "customerService": "专属客服",
+        "messageCenter": "消息中心",
+        "taskManager": "任务管理器",
+        "submitSuccess": "提交成功。你可在【AI会记】中查看任务状态或者前往【云文档-我的纪要-会议纪要】查看纪要。",
+        "tip": "提示"
+    }
+}

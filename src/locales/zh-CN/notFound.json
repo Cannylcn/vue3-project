@@ -1,0 +1,7 @@
+{
+    "notFound": {
+        "notExistOrNoPermission": "页面可能不存在或没有权限",
+        "checkLink": "请检查页面链接准确无误，同时找管理者确认账号是否开通访问权限。",
+        "backHome": "返回首页"
+    }
+}
