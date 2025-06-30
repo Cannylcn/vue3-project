@@ -1,0 +1,28 @@
+{
+    "navMenu": {
+        "memberFree": "",
+        "iKnow": "",
+        "taskManager": "",
+        "uploadList": "",
+        "myNote": "",
+        "myNoteTip": "",
+        "deleteSuccess": "",
+        "downloadSuccess": "",
+        "activity": "",
+        "schedule": "",
+        "cloudDocument": "",
+        "meeting": "",
+        "optional": "",
+        "aiJinbao": "",
+        "find": "",
+        "roadshow": "",
+        "summary": "",
+        "research": "",
+        "report": "",
+        "info": "",
+        "qa": "",
+        "addressBook": "",
+        "manage": "",
+        "more": ""
+    }
+}
